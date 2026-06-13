@@ -5,4 +5,4 @@ all:
         server_a:
           ansible_host: 172.27.190.205
           ansible_user: Jatin-2
-          ansible_password: "Jatin007#"
+          ansible_password: 'Jatin007#'
